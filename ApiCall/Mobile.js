@@ -111,13 +111,6 @@ const get = (request , response) =>{
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
             image: "https://www.notebookcheck.net/uploads/tx_nbc2/4_zu_3_Teaser_Google_Pixel_5.jpg",
             price: "₹17000"
-        },
-        {
-            id: 10,
-            name: "Redmi Note 11",
-            ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://m.media-amazon.com/images/I/81zLNgcvlaL._AC_SS450_.jpg",
-            price: "₹23500"
         }
     ])
 }
