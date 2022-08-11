@@ -50,7 +50,7 @@ const get = (request, response) =>{
             name: "Ipad Pro 10",
             catagory: "Ipad",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://5.imimg.com/data5/SELLER/Default/2021/1/WN/LY/PI/77918833/apple-ipad-pro-6-gb-ram-4th-generation-500x500.jpg",
+            image: "https://tydi.co.nz/wp-content/uploads/2020/12/SAPPIPP10564GSGUNLA_l.jpg",
             price: "₹75,000",
             oPrice: "₹82,499"
         },
