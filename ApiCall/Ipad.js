@@ -29,7 +29,7 @@ const get = (request, response) =>{
             name: "Ipad Air 3rd Gen",
             catagory: "Ipad",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://m.media-amazon.com/images/I/61z85f1XsgL._SL1500_.jpg",
+            image: "https://m.media-amazon.com/images/I/61pKdiWVerL._AC_SS450_.jpg",
             price: "₹58900",
         },
         {
