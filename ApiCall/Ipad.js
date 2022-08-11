@@ -59,9 +59,9 @@ const get = (request, response) =>{
             name: "Ipad Pro M1",
             catagory: "Ipad",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-pro-11-select-202104_GEO_IN_FMT_WHH?wid=2000&hei=2000&fmt=png-alpha&.v=1617900312000",
-            price: "₹75,500",
-            oPrice: "₹83,000"
+            image: "https://img.poorvika.com/cdn-cgi/image/width=450,height=450,quality=75/1600_JPG/Tabs/Apple/Apple-IPad-Pro-With-Apple-M1-Chip-11-Inch-WiFi-3rd-Generation/Apple-iPad-Pro-With-Apple-M1-Chip-11-Inch-WiFi-128GB-Space-Grey-MHQR3HN-A-3rd-Generation1.jpg",
+            price: "₹1,75,500",
+            oPrice: "₹1,83,000"
         },
         {
             id: 24,

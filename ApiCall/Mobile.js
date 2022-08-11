@@ -6,7 +6,7 @@ const get = (request , response) =>{
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
             image: "https://m.media-amazon.com/images/I/61fy+u9uqPL._SX679_.jpg",
-            price: "₹22000",
+            price: "₹22,000",
             oPrice: "₹23,900"
 
         },
@@ -16,7 +16,7 @@ const get = (request , response) =>{
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
             image: "https://m.media-amazon.com/images/I/61mIUCd-37L._SL1500_.jpg",
-            price: "₹19500",
+            price: "₹19,500",
             oPrice: "₹21,000"
 
         },
@@ -26,7 +26,7 @@ const get = (request , response) =>{
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
             image: "https://m.media-amazon.com/images/I/716uVx3Wr5L._AC_SS450_.jpg",
-            price: "₹35000",
+            price: "₹35,000",
             oPrice: "₹38,499"
 
         },
@@ -36,7 +36,7 @@ const get = (request , response) =>{
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
             image: "https://m.media-amazon.com/images/I/617MPEZB5mL._SL1500_.jpg",
-            price: "₹16500",
+            price: "₹16,500",
             oPrice: "₹19,000"
 
         },
@@ -46,7 +46,7 @@ const get = (request , response) =>{
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
             image: "https://m.media-amazon.com/images/I/619n6kxuGsL._SL1500_.jpg",
-            price: "₹23500",
+            price: "₹23,500",
             oPrice: "₹25,500"
 
         },
@@ -56,7 +56,7 @@ const get = (request , response) =>{
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
             image: "https://i01.appmifile.com/webfile/globalimg/in/cms/A0F36EF9-A32C-FF2F-E2D5-1FE5124589C2.jpg",
-            price: "₹12500",
+            price: "₹12,500",
             oPrice: "₹13,500"
         },
         {
@@ -65,8 +65,8 @@ const get = (request , response) =>{
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
             image: "https://i02.appmifile.com/644_operator_in/30/09/2021/71bceaa70d1b789429e32134dc332adb.jpg",
-            price: "₹14500",
-            oPrice: "16,000"
+            price: "₹14,500",
+            oPrice: "₹16,000"
         },
         {
             id: 8,
@@ -74,7 +74,7 @@ const get = (request , response) =>{
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
             image: "https://m.media-amazon.com/images/I/817clKAKcqL._SL1500_.jpg",
-            price: "₹16000",
+            price: "₹16,000",
             oPrice: "₹17,500"
         },
         {
