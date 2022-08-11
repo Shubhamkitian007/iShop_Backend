@@ -50,7 +50,7 @@ const get = (request, response) =>{
             name: "Ipad Pro 10",
             catagory: "Ipad",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-2021-hero-silver-cell-select?wid=450&hei=450&fmt=jpeg&qlt=95&.v=1631308880000",
+            image: "https://5.imimg.com/data5/SELLER/Default/2021/1/WN/LY/PI/77918833/apple-ipad-pro-6-gb-ram-4th-generation-500x500.jpg",
             price: "₹75,000",
             oPrice: "₹82,499"
         },
