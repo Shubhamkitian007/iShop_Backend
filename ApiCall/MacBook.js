@@ -1,4 +1,4 @@
-const get = (response, reject) =>{
+const get = (request, response) =>{
     response.send([
         {
             id: 1,
