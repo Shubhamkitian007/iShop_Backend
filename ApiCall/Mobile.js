@@ -93,7 +93,7 @@ const get = (request , response) =>{
             name: "Samsung Galaxy S20",
             catagory: "Mobile",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://m.media-amazon.com/images/I/812yohjGZ2L._SY550_.jpg",
+            image: "https://m.media-amazon.com/images/I/71RxOftVoQL._AC_SS450_.jpg",
             price: "₹20500",
         },
         {
