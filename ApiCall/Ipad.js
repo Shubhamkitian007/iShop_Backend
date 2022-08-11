@@ -41,7 +41,7 @@ const get = (request, response) =>{
             name: "Ipad 11 Pro",
             catagory: "Ipad",
             ratting: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
-            image: "https://www.aptronixindia.com/media/catalog/product/1/1/11-inch128gbipadprowi-ficelluar-spacegrey.png",
+            image: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ipad-pro-12-11-select-202104_GEO_IN_FMT_WHH?wid=2000&hei=2000&fmt=jpeg&qlt=90&.v=1617865122000",
             price: "₹60,500",
             oPrice: "₹63,000"
         },
